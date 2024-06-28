@@ -1,1 +1,1 @@
-# hubble_tension_analysis
+# Multiscale Analysis of the Hubble Tension in an Evaluation of the ΛCDM Model
